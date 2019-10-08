@@ -1,6 +1,6 @@
 # alias templates
 
-This project is folk from [toptal/gitignore](https://github.com/toptal/gitignore). It similar than it. For generating the alias commands to make command easier.
+This project is fork from [toptal/gitignore](https://github.com/toptal/gitignore). It similar than it. For generating the alias commands to make command easier.
 
 ## templates
 
