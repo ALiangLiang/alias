@@ -18,7 +18,7 @@ alias ds='docker start'
 alias dt='docker tag'
 
 # docker compose
-alias dc='docker-compose'
+alias dc='docker-compose' # maybe override the "dc" command. (A desk calculator)
 alias dcd='docker-compose down'
 alias dce='docker-compose exec'
 alias dcl='docker-compose logs'
